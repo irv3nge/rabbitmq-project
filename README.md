@@ -118,6 +118,3 @@ Content-Type: application/json
 
 
 # ⚡
-
-Se quiser também, te passo o `env.example` certinho pra deixar junto no GitHub — assim o projeto fica **profissional de verdade**.  
-**Quer que eu já monte também o `env.example`?** 🚀🎯 (leva 10 segundos)
